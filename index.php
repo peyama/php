@@ -1,3 +1,3 @@
 <?php   
-    echo "Primeiro arquivo!"; 
+    echo "Arquivo!"; 
 ?>
